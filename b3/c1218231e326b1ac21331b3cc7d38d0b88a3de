@@ -1,0 +1,66 @@
+tinygrad/uop/ops.py
+  s_883154ac52ee48::t_6583f121062760 1201-1205,1230,1249,1257,1268-1270,1272-1273
+tinygrad/runtime/ops_dsp.py
+  s_883154ac52ee48::t_76a4fce8305f06 36-38,68-70,285-286
+tinygrad/codegen/opt/postrange.py
+  s_883154ac52ee48::t_dfeae757ef0a30 7,331-332
+test/amd/hw/test_dpp.py
+  s_883154ac52ee48::t_725e5db35187db 40,43,88
+tinygrad/runtime/ops_hip.py
+  s_883154ac52ee48::t_93c1735b721ddd 4,41-47
+tinygrad/runtime/graph/metal.py
+  s_883154ac52ee48::t_a96f0ad1d81802 5,30-31,40,43,45-46,48-49,68-69,72
+tinygrad/runtime/ops_webgpu.py
+  s_883154ac52ee48::t_506adc3438e78e 3,55,78-81,100-101
+  s_883154ac52ee48::t_f9e6a9b6c7d7d0 208
+tinygrad/runtime/ops_nv.py
+  s_883154ac52ee48::t_cf8442749f657a 6-7,11,245-253
+tinygrad/runtime/ops_cpu.py
+  s_883154ac52ee48::t_c842d150c7b862 68-75,125,165-168,171-172
+tinygrad/runtime/ops_qcom.py
+  s_883154ac52ee48::t_2fe6577ce4e5f0 205-208,216-218,220-222
+test/backend/test_arg_order.py
+  s_883154ac52ee48::t_8de927365272d4 51-52,55,57,59-61,63
+  s_883154ac52ee48::t_06108b47c0732d 1-48,53-54,56,58,62,64-142
+  s_883154ac52ee48::t_ec599956302a15 49-50
+test/device/test_hcq2.py
+  s_883154ac52ee48::t_a6b62ce209db9e 1,3,5-6,8,13-24
+test/amd/hw/helpers.py
+  s_883154ac52ee48::t_e51e544471d32f 173,177,227
+test/amd/hw/test_rdna4_permlane_var.py
+  s_883154ac52ee48::t_178512ef0c8693 39,42,89
+test/external/external_test_am_fault_recovery.py
+  s_883154ac52ee48::t_ceaf6431036142 20-23
+tinygrad/runtime/ops_metal.py
+  s_883154ac52ee48::t_e074849fac598e 5,142-144
+tinygrad/runtime/ops_cl.py
+  s_883154ac52ee48::t_63e63ef91eb9dd 9,58-59,61-62
+tinygrad/runtime/support/hcq2.py
+  s_883154ac52ee48::t_17f84f9157324b 7,11,87-91
+extra/hcq2/ops_amd2.py
+  s_883154ac52ee48::t_73542c36cb99fa 8,282,284,288-289,305-306
+tinygrad/renderer/wgsl.py
+  s_883154ac52ee48::t_f9e6a9b6c7d7d0 99
+tinygrad/runtime/ops_cuda.py
+  s_883154ac52ee48::t_af70cb38752e54 5,20-26
+tinygrad/runtime/support/hcq.py
+  s_883154ac52ee48::t_3cb5441c04584a 9,330-336
+tinygrad/device.py
+  s_883154ac52ee48::t_c37489d5a1e454 9-12,330,334-341
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "b3c1218231e326b1ac21331b3cc7d38d0b88a3de",
+  "prompts": {},
+  "sessions": {
+    "s_883154ac52ee48": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02f14-8943-7963-b6ec-32cc69395ae1",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
